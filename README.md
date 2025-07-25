@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SupaM1
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python, PowerShell and UNIX
+- 🌱 I’m currently learning ... Python, PowerShell and Lunix bash
 - 💞️ I’m looking to collaborate on ...
